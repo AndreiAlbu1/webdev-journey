@@ -1,0 +1,36 @@
+body {
+  background-image: url("img/coffee-cup.jpg");
+  background-size: cover;        /* fills the screen */
+  background-repeat: no-repeat;  /* no tiling */
+  background-position: center;   /* keeps it centered */
+  color: #f1e3d3;
+  font-family: 'Poppins', sans-serif;
+}
+header{font-size: 1.5rem;
+  font-weight: 700;
+  margin: 5px 0;
+  letter-spacing: 0.5px;
+  font-family: 'Poppins', sans-serif;
+
+}
+section{background: rgba(0,0,0,0.4);
+padding: 20px;
+margin-bottom: 25px;
+border-radius: 12px;
+max-width: 800px;
+backdrop-filter: blur(3px)
+}
+h1 {
+  text-align: center;
+ font-family: "Poppins", sans-serif;
+ color: #e6c07b;
+}
+
+footer p {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 5px 0;
+  letter-spacing: 0.5px;
+  font-family: cursive;
+  
+}
